@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Tools\Helpers\Helpers.csproj">
+    <ProjectReference Include="..\..\..\..\Tools\Helpers\Helpers.csproj">
       <Project>{08008568-89c9-4628-a09e-dfb6bd9dc2ad}</Project>
       <Name>Helpers</Name>
     </ProjectReference>
